@@ -1,0 +1,15 @@
+{
+  "name": "Single-Page-CV",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/toanbui-tech/Single-Page-CV.git",
+  "author": "Bui Minh Toan <toan.bui@nexpando.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vite": "^6.0.11",
+    "remix": "^x.x.x"
+  },
+  "scripts": {
+    "dev": "vite"
+  } 
+}
