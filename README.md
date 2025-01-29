@@ -1,4 +1,4 @@
-# Single-Page-CV
+# Single-Page-CV:
 https://roadmap.sh/projects/single-page-cv
 
 ## Start Single-Page-CV:
@@ -12,3 +12,6 @@ https://roadmap.sh/projects/single-page-cv
 ```
 
 - yarn dev
+
+# Visit my Single-Page-CV:
+https://timely-babka-362cd9.netlify.app/
