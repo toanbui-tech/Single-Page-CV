@@ -6,8 +6,7 @@
   "author": "Bui Minh Toan <toan.bui@nexpando.com>",
   "license": "MIT",
   "dependencies": {
-    "vite": "^6.0.11",
-    "remix": "^x.x.x"
+    "vite": "^6.0.11"
   },
   "scripts": {
     "dev": "vite"
